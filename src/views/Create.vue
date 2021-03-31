@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <p>Hello from the home page</p>
+    <p>Hello from the create page</p>
   </v-container>
 </template>
 
