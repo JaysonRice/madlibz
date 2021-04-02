@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="teal " dark>
-      <h1>Madlibz</h1>
+      <v-app-bar-title>Madlibz</v-app-bar-title>
       <v-spacer></v-spacer>
       <router-link to="/create">
         <v-btn text> New MadLib </v-btn>
